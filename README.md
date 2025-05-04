@@ -38,7 +38,6 @@ IntelliHire is an AI-driven mock interview system designed to help users simulat
 
 **Other Tools:**
 - Web Speech API (for voice capture)
-- MediaPipe / TensorFlow.js (for facial analysis)
 - dotenv (for managing API keys)
 - Git & GitHub (for version control)
 
